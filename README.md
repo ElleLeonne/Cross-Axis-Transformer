@@ -6,3 +6,4 @@
 
 The code associated with my cross-axis transformer project.
 
+The results of my last two years of private study, research, and code curation.
