@@ -1,0 +1,8 @@
+torch
+torchvision
+datasets
+transformers
+lightning
+einops
+thop
+wandb
